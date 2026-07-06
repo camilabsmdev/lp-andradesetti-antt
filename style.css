@@ -275,7 +275,7 @@ section {
     display: flex;
     align-items: center;
     padding: 120px 0 80px 0;
-    background: url('../assets/caminhao_tech.jpg') no-repeat center center;
+    background: url('caminhao_tech.jpg') no-repeat center center;
     background-size: cover;
     border-bottom: 1px solid var(--border-color);
 }
